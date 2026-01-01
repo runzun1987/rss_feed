@@ -4,24 +4,49 @@
     <title>Free Robux 2026 - PDF Guides and Resources</title>
     <link>https://www.marcotran.com</link>
 
-    <!-- Required for best compatibility -->
-    <atom:link href="https://runzun1987.github.io/rss_feed/rss.xml"
-               rel="self"
-               type="application/rss+xml" />
+    <!-- Self reference -->
+    <atom:link
+      href="https://runzun1987.github.io/rss_feed/rss.xml"
+      rel="self"
+      type="application/rss+xml" />
 
-    <description>Free Robux 2026 PDF guides, resources, and information related to Roblox rewards.</description>
+    <description>
+      Free Robux 2026 PDF guides, resources, and information related to Roblox rewards.
+    </description>
     <language>en-us</language>
 
     <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
     <lastBuildDate>Fri, 02 Jan 2026 00:00:00 GMT</lastBuildDate>
 
+    <!-- ITEM 1 -->
     <item>
-      <title>Free Robux 2026 - 1000 Robux PDF Guide</title>
-      <link>https://www.marcotran.com/sites/default/files/2026-01/Free_Robux_2026_1000_Engaging_Pro.pdf</link>
+      <title>Free Robux 2026 - 1000 Robux Engaging PDF Guide</title>
+      <link>
+        https://www.marcotran.com/sites/default/files/2026-01/Free_Robux_2026_1000_Engaging_Pro.pdf
+      </link>
       <guid isPermaLink="true">
         https://www.marcotran.com/sites/default/files/2026-01/Free_Robux_2026_1000_Engaging_Pro.pdf
       </guid>
-      <description>Download the Free Robux 2026 PDF guide explaining Robux systems, engagement methods, and Roblox-related insights.</description>
+      <description>
+        Download the Free Robux 2026 engaging PDF guide explaining Robux systems,
+        engagement methods, and Roblox-related insights.
+      </description>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+
+    <!-- ITEM 2 (NEW) -->
+    <item>
+      <title>Free Robux 2026 - Full 3x3x500 PDF Guide</title>
+      <link>
+        https://www.marcotran.com/sites/default/files/2026-01/Free_Robux_2026_FULL_3x3x500.pdf
+      </link>
+      <guid isPermaLink="true">
+        https://www.marcotran.com/sites/default/files/2026-01/Free_Robux_2026_FULL_3x3x500.pdf
+      </guid>
+      <description>
+        Download the Free Robux 2026 FULL 3x3x500 PDF guide containing extended
+        Robux-related explanations, strategies, and detailed resources.
+      </description>
       <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
     </item>
 
